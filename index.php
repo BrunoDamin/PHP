@@ -1,7 +1,7 @@
 <?php 
 
 	echo "Ola Mundo!";
+	
 
-	echo "Ola Bola Redonda";
-
+	echo "Ola Planeta!";
 ?>
